@@ -4,4 +4,4 @@
 
 2- Sur Internet, entrez l'URL:  http://127.0.0.1:8000/docs
 
-3- Effectuez vos tests!
+3- Faites vos tests!
